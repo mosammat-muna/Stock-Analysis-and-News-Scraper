@@ -10,7 +10,7 @@ This script analyzes and visualizes stock data and fetches related news articles
 </p>
 <h2>Working demo is coming soon!</h2>
 <h2>Preview of the demo design</h2>
-![Screenshot]([https://github.com/user-attachments/assets/2ce19e74-6477-4209-a854-9a3b95de21ee](https://github.com/mosammat-muna/Stock-Analysis-and-News-Scraper/blob/ce82bf287e51c16bba7f071071803cd166d8f4b5/demo.jpg))
+![Screenshot](demo.jpg)
 
 <h2>Technologies Used</h2>
 <ul>
