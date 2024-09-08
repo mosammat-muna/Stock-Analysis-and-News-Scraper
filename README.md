@@ -10,7 +10,7 @@ This script analyzes and visualizes stock data and fetches related news articles
 </p>
 <h2>Working demo is coming soon!</h2>
 <h2>Preview of the demo design</h2>
-![demo](https://github.com/user-attachments/assets/3392b04d-c082-4157-a350-cb1ecf0de309)
+![demo](https://github.com/user-attachments/assets/2ce19e74-6477-4209-a854-9a3b95de21ee)
 
 <h2>Technologies Used</h2>
 <ul>
