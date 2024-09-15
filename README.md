@@ -6,9 +6,8 @@ This script analyzes and visualizes stock data and fetches related news articles
 
 <h2>Demo</h2>
 <p>
-  Link to the demo design: <a href="https://www.figma.com/design/XOjz03AzEBr1HhWuQ3b4Gm/Real-Time-Stock-Analysis-and-News-Scraper?node-id=0-1&t=LNNsVrFLwwvkyJXT-1">Real-Time Stock Analysis and News Scraper</a>
+  Link to the demo design: <a href="https://www.figma.com/design/XOjz03AzEBr1HhWuQ3b4Gm/Real-Time-Stock-Analysis-and-News-Scraper?node-id=0-1&t=LNNsVrFLwwvkyJXT-1">Real-Time Stock Analysis and News Scraper</a>. Working demo is coming soon!
 </p>
-<h2>Working demo is coming soon!</h2>
 <h2>Preview of the demo design</h2>
 <p>Check demo.jpg</p>
 
